@@ -7,3 +7,5 @@ It is just for practice and can be expanded further in the future.
 The dataset was taken from Kaggle, cleaning of data was done to remove NaN values and convert the object to numerical for machine learning purpose.
 Streamlit website can also generate the report of the predicted price with all the features user selected.
 The report can also be imported in the csv format. 
+
+Will add the deployed version soon.
